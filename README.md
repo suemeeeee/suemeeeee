@@ -1,9 +1,13 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=dbf4ff&height=200&section=header&text=Hello%20World!👋-nl-I'm%20FrontEnd%20Engineer%20PYM&fontSize=30&animation=twinkling&fontAlign=85&fontAlign=75&fontAlignY=30&fontAlignY=50&fontColor=67adcc)
 
-<div align="center">
+<div style="display:flex; justify-content: center">
+<img src="https://github.com/suemeeeee/suemeeeee/assets/113190920/cb55c51f-be79-4807-8ba4-9aa0a034120e" width="150" height="195" style="object-fit: cover; border-radius: 10px; margin-right:1rem">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suemeeeee&bg_color=dbf4ff&title_color=67adcc&text_color=67adcc&hide_border=true&show_icons=true&icon_color=67adcc&rank_icon=github&count_private=true&card_width=250px)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suemeeeee&bg_color=dbf4ff&title_color=67adcc&text_color=67adcc&hide_border=true&show_icons=true&icon_color=67adcc&rank_icon=github&count_private=true&card_width=250px)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+</div>
+
 
 ## 💠Stacks💠
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
