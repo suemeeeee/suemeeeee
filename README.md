@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
       <img src="https://img.shields.io/badge/createreactapp-09D3AC?style=flat-square&logo=createreactapp&logoColor=white"/>
       <br />
-      <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=next.js&logoColor=white">
+      <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
