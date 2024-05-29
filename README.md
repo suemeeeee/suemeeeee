@@ -25,8 +25,8 @@
       <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
       <img src="https://img.shields.io/badge/createreactapp-09D3AC?style=flat-square&logo=createreactapp&logoColor=white"/>
       <br />
-      <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+      <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
@@ -35,5 +35,6 @@
       <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
       <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
       <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white">
     </div>
 </div>
